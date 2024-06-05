@@ -2,6 +2,13 @@
 
 ![Banner](https://github.com/BarochiyaYash/BarochiyaYash/blob/main/Yash.png)
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll find a collection of my projects, contributions, and explorations in the world of coding. 
 
 ## 🌟 About Me
