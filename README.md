@@ -12,11 +12,27 @@ I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll 
 - 📫 How to reach me: **www.linkedin.com/in/yashkumar-barochiya**
 - ⚡ Fun fact: **I love hiking and photography!**
 
+<!-- ## 🚀 My Projects
+### 📱 [Project 1](https://github.com/yourusername/project1)
+![Project 1 Screenshot](https://via.placeholder.com/600x400.png?text=Project+1+Screenshot)
+Description of your project and what it does.
+
+### 🌐 [Project 2](https://github.com/yourusername/project2)
+![Project 2 Screenshot](https://via.placeholder.com/600x400.png?text=Project+2+Screenshot)
+Description of your project and what it does.
+
+### 🔧 [Project 3](https://github.com/yourusername/project3)
+![Project 3 Screenshot](https://via.placeholder.com/600x400.png?text=Project+3+Screenshot)
+Description of your project and what it does. -->
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashkumar-barochiya)
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://barochiyayash.github.io/PortfolioYB/)
+
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,8 +42,14 @@ I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ⭐️ From BarochiyaYash(https://github.com/BarochiyaYash)
+
