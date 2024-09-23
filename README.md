@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
 
-![Banner](https://github.com/BarochiyaYash/BarochiyaYash/blob/main/Yash.png)
+![Banner](https://github.com/BarochiyaYash/BarochiyaYash/blob/main/02.png)
 
 
 <div align="center">
