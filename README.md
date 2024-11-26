@@ -39,7 +39,7 @@ Description of your project and what it does. -->
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkumar-barochiya)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://barochiyayash.github.io/PortfolioYB/)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://portfolio.yashbarochiya.com/)
 
 
 ## 🛠️ Technologies & Tools
