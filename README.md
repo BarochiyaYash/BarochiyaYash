@@ -47,6 +47,10 @@ Description of your project and what it does. -->
   <img src="https://github-profile-trophy.vercel.app/?username=BarochiyaYash&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
+<img alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BarochiyaYash&amp;bg_color=1a1b27&amp;color=38bdae&amp;line=70a5fd&amp;point=bf91f3&amp;area=true&amp;hide_border=true">
+<!-- Footer --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=BarochiyaYash&style=flat-square&color=blue" alt="Profile views" /> <br/><br/> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h3>"Code is like humor. When you have to explain it, it's bad." – Cory House</h3> </div>
+⭐️ From BarochiyaYash
+
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashkumar-barochiya)
