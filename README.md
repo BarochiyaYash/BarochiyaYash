@@ -11,6 +11,12 @@
 
 I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll find a collection of my projects, contributions, and explorations in the world of coding. 
 
+<!-- Dynamic Typing Effect -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%235BCDEC&size=22&center=true&vCenter=true&width=500&height=45&lines=Passionate+Web+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+New+Things" />
+  </a>
+</p>
 
 ## 🌟 About Me
 <!-- - 🔭 I’m currently working on **[Your Current Project]** -->
