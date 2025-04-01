@@ -34,7 +34,18 @@ Description of your project and what it does.
 Description of your project and what it does. -->
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarochiyaYash&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BarochiyaYash&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarochiyaYash&layout=compact&theme=tokyonight" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarochiyaYash&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BarochiyaYash&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 
 ## 🌍 Connect with Me
