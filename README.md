@@ -9,7 +9,7 @@
       <p>I believe in continuous learning and building things that matter.</p>
     </td>
   </tr>
-</table>`
+</table>
 
 <!-- Dynamic Typing Effect -->
 <p align="center">
@@ -115,10 +115,6 @@ Description of your project and what it does. -->
 
 </div>
 
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## ✍️ Latest Blog Posts
 
