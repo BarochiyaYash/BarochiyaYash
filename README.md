@@ -8,7 +8,7 @@
 </p>
 
 
-![Banner](https://github.com/BarochiyaYash/BarochiyaYash/blob/main/Yash Barochiya Developer.png)
+![Banner](https://github.com/BarochiyaYash/BarochiyaYash/blob/main/Yash_Barochiya_Developer.png)
 
 
 <div align="center">
