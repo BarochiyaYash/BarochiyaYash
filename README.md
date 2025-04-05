@@ -119,6 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace Your Interview: A College Student’s Guide to Success](https://yashbarochiya.com/company-interview-preparation-guide/)
+- [Self-Introduction Structure for an Interview](https://yashbarochiya.com/self-introduction-structure-for-an-interview/)
+- [5 Essential Tools for IT Students: Boost Productivity &amp; Coding Efficiency](https://yashbarochiya.com/essential-tools-for-it-students/)
+- [GitHub Copilot: Your AI Pair Programmer is Now Free!](https://yashbarochiya.com/github-copilot-your-ai-pair-programmer-is-now-free/)
+- [Exploring GitHub: Features Every Professional Developer Should Know](https://yashbarochiya.com/github-features-every-professional-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
