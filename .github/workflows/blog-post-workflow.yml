@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: "30 0 1,8,15,22 * *" # 6:00 AM IST on 1st, 8th, 15th, 22nd
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "http://yashbarochiya.com/feed/"
