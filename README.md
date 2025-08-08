@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New OpenAI GPT-5: A Smarter AI for Everyone](https://yashbarochiya.com/new-openai-gpt-5/)
+- [OpenAI Just Dropped GPT-OSS Powerful AI Models You Can Actually Download](https://yashbarochiya.com/openai-gpt-oss-ai-models/)
 - [GitHub Spark: The AI That Creates Apps From Ideas](https://yashbarochiya.com/github-spark-yash/)
 - [Google IO 2025 Google Gemini Revolution – Smarter AI for Everyone](https://yashbarochiya.com/google-io-2025/)
 - [GSAP Free: Create Stunning Website Animations in 2025](https://yashbarochiya.com/gsap-free-guide-2025/)
-- [Ace Your Interview: A College Student’s Guide to Success](https://yashbarochiya.com/company-interview-preparation-guide/)
-- [Self-Introduction Structure for an Interview](https://yashbarochiya.com/self-introduction-structure-for-an-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
