@@ -37,7 +37,7 @@ I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll 
 - 🌱 I’m learning **React, Node.js, and Python**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Web Development, and APIs**
-- 📫 How to reach me: **www.linkedin.com/in/yashkumar-barochiya**
+- 📫 How to reach me: **www.linkedin.com/in/yashbarochiya**
 - ⚡ Fun fact: **I love hiking and photography!**
 
 <!-- ## 🚀 My Projects
