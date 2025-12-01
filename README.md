@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hostinger Best Hosting with 80% + Extra 20% Best Discount in &lpar;2026&rpar;](https://yashbarochiya.com/hostinger-hosting-extra-discount/)
+- [5 Practical AI Projects to Bridge the Gap Between Beginner and Pro](https://yashbarochiya.com/practical-ai-projects-beginner/)
 - [Google Antigravity: The AI-First IDE Powered by Gemini 3](https://yashbarochiya.com/google-antigravity/)
 - [Top 4 AI Vibe Coding Tools to Use in 2025](https://yashbarochiya.com/ai-vibe-coding-tools/)
 - [Simple Prompt Engineering for Better AI &lpar;2025&rpar;](https://yashbarochiya.com/prompt-engineering-simple-guide/)
-- [New OpenAI GPT-5: A Smarter AI for Everyone](https://yashbarochiya.com/new-openai-gpt-5/)
-- [OpenAI Just Dropped GPT-OSS Powerful AI Models You Can Actually Download](https://yashbarochiya.com/openai-gpt-oss-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
