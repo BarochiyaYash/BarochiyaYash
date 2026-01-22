@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laracon India 2026: India’s Biggest Laravel Event](https://yashbarochiya.com/laracon-india-2026/)
 - [Hostinger Discount Coupon Best Hosting with 80% + Extra 20% Best  &lpar;2026&rpar;](https://yashbarochiya.com/hostinger-hosting-extra-discount/)
 - [5 Practical AI Projects to Bridge the Gap Between Beginner and Pro](https://yashbarochiya.com/practical-ai-projects-beginner/)
 - [Google Antigravity: The AI-First IDE Powered by Gemini 3](https://yashbarochiya.com/google-antigravity/)
 - [Top 4 AI Vibe Coding Tools to Use in 2025](https://yashbarochiya.com/ai-vibe-coding-tools/)
-- [Simple Prompt Engineering for Better AI &lpar;2025&rpar;](https://yashbarochiya.com/prompt-engineering-simple-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
