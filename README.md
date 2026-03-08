@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AWS Kiro IDE? The Ultimate Guide &amp; My Review](https://yashbarochiya.com/aws-kiro-guide-review/)
+- [My AI Event Journey: Why Everyone is Talking About MCP](https://yashbarochiya.com/my-ai-journey-mcp/)
 - [My Personal Journey: Laracon India 2026 Day 2](https://yashbarochiya.com/laracon-india-2026-day2/)
 - [My Laracon India 2026 Experience – Day 1](https://yashbarochiya.com/laracon-india-2026-day1/)
 - [Laracon India 2026: India’s Biggest Laravel Event](https://yashbarochiya.com/laracon-india-2026/)
-- [Hostinger Discount Coupon Best Hosting with 80% + Extra 20% Best  &lpar;2026&rpar;](https://yashbarochiya.com/hostinger-hosting-extra-discount/)
-- [5 Practical AI Projects to Bridge the Gap Between Beginner and Pro](https://yashbarochiya.com/practical-ai-projects-beginner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
