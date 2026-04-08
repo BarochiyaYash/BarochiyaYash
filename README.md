@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 7.0 Features: Real-Time Collaboration &amp; AI](https://yashbarochiya.com/wordpress-7-0-features-update/)
+- [Anthropic Claude Skills: Download &amp; Use](https://yashbarochiya.com/anthropic-claude-skills/)
+- [My Hostinger for WordPress Experience &lpar;2026&rpar; + Setup Guide](https://yashbarochiya.com/hostinger-wordpress-experience/)
 - [WordCamp Asia 2026: Ultimate Mumbai Event](https://yashbarochiya.com/wordcamp-asia-2026-mumbai/)
 - [What is AWS Kiro IDE? The Ultimate Guide &amp; My Review](https://yashbarochiya.com/aws-kiro-guide-review/)
-- [My AI Event Journey: Why Everyone is Talking About MCP](https://yashbarochiya.com/my-ai-journey-mcp/)
-- [My Personal Journey: Laracon India 2026 Day 2](https://yashbarochiya.com/laracon-india-2026-day2/)
-- [My Laracon India 2026 Experience – Day 1](https://yashbarochiya.com/laracon-india-2026-day1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
