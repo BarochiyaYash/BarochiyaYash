@@ -119,11 +119,11 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2026 Announcements: 5 AI Updates](https://yashbarochiya.com/google-io-2026/)
 - [My Experience Running Ollama on a VPS](https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/)
 - [Agentic AI: The Era of Smart AI Agents](https://yashbarochiya.com/agentic-ai-shift/)
 - [What is Model Context Protocol? The USB-C for AI Agents](https://yashbarochiya.com/model-context-protocol-ai/)
 - [My Adventure at WordCamp Asia 2026 Day 3](https://yashbarochiya.com/wordcamp-asia-2026-day-3/)
-- [WordCamp Asia Day 2: Networking &amp; Sponsor Booths](https://yashbarochiya.com/wordcamp-asia-2026-day-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
