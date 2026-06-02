@@ -24,17 +24,23 @@ jobs:
           sort_order: desc
           title_max_length: 80
           description_max_length: 150
+          custom_tags: "thumbnail/thumbnail/"
           item_exec: >
+            const getMediaUrl = (value) => {
+              if (!value) return '';
+              if (Array.isArray(value)) return getMediaUrl(value[0]);
+              return value?.$?.url || value?.url || '';
+            };
             const rawContent = item['content:encoded'] || item.content || '';
             const imageFromContent = (rawContent.match(/<img[^>]+src=["']([^"']+)["']/i) || [])[1] || '';
-            const mediaThumbnail = Array.isArray(item['media:thumbnail']) ? (item['media:thumbnail'][0]?.$?.url || item['media:thumbnail'][0]?.url || '') : (item['media:thumbnail']?.$?.url || item['media:thumbnail']?.url || '');
-            const mediaContent = Array.isArray(item['media:content']) ? (item['media:content'][0]?.$?.url || item['media:content'][0]?.url || '') : (item['media:content']?.$?.url || item['media:content']?.url || '');
+            const mediaThumbnail = getMediaUrl(item['media:thumbnail']);
+            const mediaContent = getMediaUrl(item['media:content']);
             const enclosureImage = item.enclosure?.url || '';
-            post.feedName = mediaThumbnail || mediaContent || enclosureImage || imageFromContent;
+            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || 'https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png';
             post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();
           template: >
             <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-            <img src="$feedName" alt="$title" width="100%" />
+            <img src="$thumbnail" alt="$title" width="100%" />
             <strong>$title</strong><br />
             <sub>$description</sub>
             </a>$newline
