@@ -118,32 +118,12 @@ Description of your project and what it does. -->
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<a href="https://yashbarochiya.com/google-io-2026/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/google-io-2026/" alt="Google I/O 2026 Announcements: 5 AI Updates" width="100%" />
-  <strong>Google I/O 2026 Announcements: 5 AI Updates</strong><br />
-  <sub>A quick breakdown of five major AI announcements from Google I/O 2026 and what they mean for developers.</sub>
-</a>
-<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" alt="My Experience Running Ollama on a VPS" width="100%" />
-  <strong>My Experience Running Ollama on a VPS</strong><br />
-  <sub>Lessons learned while self-hosting Ollama on a VPS, including setup decisions, performance, and practical tradeoffs.</sub>
-</a>
-<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/agentic-ai-shift/" alt="Agentic AI: The Era of Smart AI Agents" width="100%" />
-  <strong>Agentic AI: The Era of Smart AI Agents</strong><br />
-  <sub>An overview of agentic AI, how autonomous agents work, and why this shift is becoming important across products.</sub>
-</a>
-<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/model-context-protocol-ai/" alt="What is Model Context Protocol? The USB-C for AI Agents" width="100%" />
-  <strong>What is Model Context Protocol? The USB-C for AI Agents</strong><br />
-  <sub>A practical explanation of MCP and how it standardizes communication between AI agents, tools, and external systems.</sub>
-</a>
-<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/wordcamp-asia-2026-day-3/" alt="My Adventure at WordCamp Asia 2026 Day 3" width="100%" />
-  <strong>My Adventure at WordCamp Asia 2026 Day 3</strong><br />
-  <sub>Highlights from day three of WordCamp Asia 2026, including key sessions, community moments, and personal takeaways.</sub>
-</a>
+<!-- BLOG-POST-LIST:START --><a href="https://yashbarochiya.com/google-io-2026/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="Google I/O 2026 Announcements: 5 AI Updates" width="100%" /> <strong>Google I/O 2026 Announcements: 5 AI Updates</strong><br /> <sub>Introduction: Welcome to the Era of Agentic AI Did you know that over 70% of professionals feel they lose hours each week to repetitive&amp;#8230;</sub> </a>
+<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="My Experience Running Ollama on a VPS" width="100%" /> <strong>My Experience Running Ollama on a VPS</strong><br /> <sub>When most developers talk about hosting their own AI, they usually focus on saving money or avoiding rate limits. But for me, those are&amp;#8230;</sub> </a>
+<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="Agentic AI: The Era of Smart AI Agents" width="100%" /> <strong>Agentic AI: The Era of Smart AI Agents</strong><br /> <sub>The AI Has Left the Room Remember when artificial intelligence felt like a brilliant assistant locked inside a single, isolated room? You would type&amp;#...</sub> </a>
+<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="What is Model Context Protocol? The USB-C for AI Agents" width="100%" /> <strong>What is Model Context Protocol? The USB-C for AI Agents</strong><br /> <sub>Imagine buying a brand-new, ultra-fast computer, only to realize every single accessory—your mouse, keyboard, and monitor—requires a completely differ...</sub> </a>
+<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="My Adventure at WordCamp Asia 2026 Day 3" width="100%" /> <strong>My Adventure at WordCamp Asia 2026 Day 3</strong><br /> <sub>After an incredible Day 1 and Day 2, waking up for&amp;#160;WordCamp Asia 2026 Day 3&amp;#160;felt bittersweet. It’s always sad to know an amazing event&amp;#8230...</sub> </a>
+<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-2/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;"> <img src="https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png" alt="WordCamp Asia Day 2: Networking &amp; Sponsor Booths" width="100%" /> <strong>WordCamp Asia Day 2: Networking &amp; Sponsor Booths</strong><br /> <sub>The energy shifts the moment you walk through the doors. While day one is all about getting settled, WordCamp Asia Day 2 is where&amp;#8230;</sub> </a>
 <!-- BLOG-POST-LIST:END -->
 
 ---
