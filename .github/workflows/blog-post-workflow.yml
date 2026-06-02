@@ -32,11 +32,12 @@ jobs:
               return value?.$?.url || value?.url || '';
             };
             const rawContent = item['content:encoded'] || item.content || '';
-            const imageFromContent = (rawContent.match(/<img[^>]+src=["']([^"']+)["']/i) || [])[1] || '';
+            const imageFromContent = (rawContent.match(/<img[^>]+src\\s*=\\s*["']?([^"'\\s>]+)["']?/i) || [])[1] || '';
             const mediaThumbnail = getMediaUrl(item['media:thumbnail']);
             const mediaContent = getMediaUrl(item['media:content']);
             const enclosureImage = item.enclosure?.url || '';
-            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || 'https://raw.githubusercontent.com/BarochiyaYash/BarochiyaYash/main/02.png';
+            const fallbackImage = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
+            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallbackImage;
             post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();
           template: >
             <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
