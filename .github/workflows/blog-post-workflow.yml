@@ -28,6 +28,6 @@ jobs:
           template: >
             <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
             <img src="https://image.thum.io/get/width/700/$url" alt="$title" width="100%" />
-            <strong>$title</strong>$newline
+            <strong>$title</strong><br />
             <sub>$description</sub>
             </a>$newline
