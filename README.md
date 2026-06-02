@@ -119,11 +119,31 @@ Description of your project and what it does. -->
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2026 Announcements: 5 AI Updates](https://yashbarochiya.com/google-io-2026/)
-- [My Experience Running Ollama on a VPS](https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/)
-- [Agentic AI: The Era of Smart AI Agents](https://yashbarochiya.com/agentic-ai-shift/)
-- [What is Model Context Protocol? The USB-C for AI Agents](https://yashbarochiya.com/model-context-protocol-ai/)
-- [My Adventure at WordCamp Asia 2026 Day 3](https://yashbarochiya.com/wordcamp-asia-2026-day-3/)
+<a href="https://yashbarochiya.com/google-io-2026/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/google-io-2026/" alt="Google I/O 2026 Announcements: 5 AI Updates" width="100%" />
+  <strong>Google I/O 2026 Announcements: 5 AI Updates</strong><br />
+  <sub>A quick breakdown of five major AI announcements from Google I/O 2026 and what they mean for developers.</sub>
+</a>
+<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" alt="My Experience Running Ollama on a VPS" width="100%" />
+  <strong>My Experience Running Ollama on a VPS</strong><br />
+  <sub>Lessons learned while self-hosting Ollama on a VPS, including setup decisions, performance, and practical tradeoffs.</sub>
+</a>
+<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/agentic-ai-shift/" alt="Agentic AI: The Era of Smart AI Agents" width="100%" />
+  <strong>Agentic AI: The Era of Smart AI Agents</strong><br />
+  <sub>An overview of agentic AI, how autonomous agents work, and why this shift is becoming important across products.</sub>
+</a>
+<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/model-context-protocol-ai/" alt="What is Model Context Protocol? The USB-C for AI Agents" width="100%" />
+  <strong>What is Model Context Protocol? The USB-C for AI Agents</strong><br />
+  <sub>A practical explanation of MCP and how it standardizes communication between AI agents, tools, and external systems.</sub>
+</a>
+<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+  <img src="https://image.thum.io/get/width/700/https://yashbarochiya.com/wordcamp-asia-2026-day-3/" alt="My Adventure at WordCamp Asia 2026 Day 3" width="100%" />
+  <strong>My Adventure at WordCamp Asia 2026 Day 3</strong><br />
+  <sub>Highlights from day three of WordCamp Asia 2026, including key sessions, community moments, and personal takeaways.</sub>
+</a>
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -19,3 +19,15 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "http://yashbarochiya.com/feed/"
+          max_post_count: 6
+          disable_sort: false
+          sort_order: desc
+          title_max_length: 80
+          description_max_length: 150
+          item_exec: "post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();"
+          template: >
+            <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
+            <img src="https://image.thum.io/get/width/700/$url" alt="$title" width="100%" />
+            <strong>$title</strong><br />
+            <sub>$description</sub>
+            </a>$newline
