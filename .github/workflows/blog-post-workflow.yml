@@ -24,10 +24,24 @@ jobs:
           sort_order: desc
           title_max_length: 80
           description_max_length: 150
-          item_exec: "post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();"
+          custom_tags: "thumbnail/thumbnail/"
+          item_exec: >
+            const getMediaUrl = (value) => {
+              if (!value) return '';
+              if (Array.isArray(value)) return getMediaUrl(value[0]);
+              return value?.$?.url || value?.url || '';
+            };
+            const rawContent = item['content:encoded'] || item.content || '';
+            const imageFromContent = (rawContent.match(/<img[^>]+src\\s*=\\s*["']?([^"'\\s>]+)["']?/i) || [])[1] || '';
+            const mediaThumbnail = getMediaUrl(item['media:thumbnail']);
+            const mediaContent = getMediaUrl(item['media:content']);
+            const enclosureImage = item.enclosure?.url || '';
+            const fallbackImage = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
+            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallbackImage;
+            post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();
           template: >
             <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-            <img src="https://image.thum.io/get/width/700/$url" alt="$title" width="100%" />
+            <img src="$thumbnail" alt="$title" width="100%" />
             <strong>$title</strong><br />
             <sub>$description</sub>
             </a>$newline
