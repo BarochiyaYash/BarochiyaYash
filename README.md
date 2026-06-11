@@ -102,19 +102,12 @@ I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll 
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://yashbarochiya.com/claude-fable-5-anthropic-ai/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/06/claude-fable-5-anthropic-ai-928x1024.webp" alt="Claude Fable 5: Anthropic’s New Powerhouse AI" title="Claude Fable 5: Anthropic’s New Powerhouse AI" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/claude-fable-5-anthropic-ai/" target="_blank"><b>Claude Fable 5: Anthropic’s New Powerhouse AI</b><br/><sub>Imagine compressing a multi-month database or structural migration across a massive enterprise codebase into less than 2…</sub></a>
-
-<a href="https://yashbarochiya.com/google-io-2026/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/05/Google-Spark-1024x575.webp" alt="Google I/O 2026 Announcements: 5 AI Updates" title="Google I/O 2026 Announcements: 5 AI Updates" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/google-io-2026/" target="_blank"><b>Google I/O 2026 Announcements: 5 AI Updates</b><br/><sub>Introduction: Welcome to the Era of Agentic AI Did you know that over 70% of professionals feel they lose hours each wee…</sub></a>
-
-<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/05/apigetway-1024x518.webp" alt="My Experience Running Ollama on a VPS" title="My Experience Running Ollama on a VPS" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank"><b>My Experience Running Ollama on a VPS</b><br/><sub>When most developers talk about hosting their own AI, they usually focus on saving money or avoiding rate limits. But fo…</sub></a>
-
-<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/05/Google-Cloud-Next-26-1024x576.webp" alt="Agentic AI: The Era of Smart AI Agents" title="Agentic AI: The Era of Smart AI Agents" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank"><b>Agentic AI: The Era of Smart AI Agents</b><br/><sub>The AI Has Left the Room Remember when artificial intelligence felt like a brilliant assistant locked inside a single, i…</sub></a>
-
-<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/04/Diagram-explaining-Model-Context-Protocol-architecture-and-AI-data-flow-1-1024x559.webp" alt="What is Model Context Protocol? The USB-C for AI Agents" title="What is Model Context Protocol? The USB-C for AI Agents" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank"><b>What is Model Context Protocol? The USB-C for AI Agents</b><br/><sub>Imagine buying a brand-new, ultra-fast computer, only to realize every single accessory—your mouse, keyboard, and monito…</sub></a>
-
-<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank"><img src="https://yashbarochiya.com/wp-content/uploads/2026/04/Panel-on-Stage-1024x768.jpg" alt="My Adventure at WordCamp Asia 2026 Day 3" title="My Adventure at WordCamp Asia 2026 Day 3" width="400" /></a>&nbsp;<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank"><b>My Adventure at WordCamp Asia 2026 Day 3</b><br/><sub>After an incredible Day 1 and Day 2, waking up for WordCamp Asia 2026 Day 3 felt bittersweet. It’s always sad...</sub></a>
-
+<table>
+<tr>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</tr>
+</table>
 
 ---
 
