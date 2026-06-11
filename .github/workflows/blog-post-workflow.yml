@@ -23,8 +23,8 @@ jobs:
           max_post_count: 6
           disable_sort: false
           sort_order: desc
-          title_max_length: 60
-          description_max_length: 120
+          title_max_length: 55
+          description_max_length: 100
           custom_tags: "thumbnail/thumbnail/"
           item_exec: >
             const getMediaUrl = (value) => {
@@ -41,8 +41,8 @@ jobs:
             const fallback = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
             post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallback;
             const raw = (post.description || '').replace(/<[^>]*>/g, '').replace(/&[a-z#0-9]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-            post.description = raw.length > 120 ? raw.slice(0, 120) + '…' : raw;
-          template: "<a href=\"$url\" target=\"_blank\"><img src=\"$thumbnail\" alt=\"$title\" title=\"$title\" width=\"400\" /></a>&nbsp;<a href=\"$url\" target=\"_blank\"><b>$title</b><br/><sub>$description</sub></a>$newline$newline"
+            post.description = raw.length > 100 ? raw.slice(0, 100) + '…' : raw;
+          template: "<td align=\"center\" width=\"33%\"><a href=\"$url\" target=\"_blank\"><img src=\"$thumbnail\" alt=\"$title\" width=\"250\" height=\"140\" style=\"object-fit:cover;border-radius:8px\" /><br/><b>$title</b></a><br/><sub>$description</sub></td>$newline"
           output_dir: "."
           filename: "README.md"
           commit_message: "chore: update README with latest blog posts"
