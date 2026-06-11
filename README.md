@@ -32,26 +32,11 @@ I'm **Yash Barochiya**, a passionate developer and tech enthusiast. Here you'll 
 
 ## 🌟 About Me
 
-<!-- - 🔭 I’m currently working on **[Your Current Project]** -->
-
-- 🌱 I’m learning **React, Node.js, and Python**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I'm learning **React, Node.js, and Python**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Web Development, and APIs**
 - 📫 How to reach me: **www.linkedin.com/in/yashbarochiya**
 - ⚡ Fun fact: **I love hiking and photography!**
-
-<!-- ## 🚀 My Projects
-### 📱 [Project 1](https://github.com/yourusername/project1)
-![Project 1 Screenshot](https://via.placeholder.com/600x400.png?text=Project+1+Screenshot)
-Description of your project and what it does.
-
-### 🌐 [Project 2](https://github.com/yourusername/project2)
-![Project 2 Screenshot](https://via.placeholder.com/600x400.png?text=Project+2+Screenshot)
-Description of your project and what it does.
-
-### 🔧 [Project 3](https://github.com/yourusername/project3)
-![Project 3 Screenshot](https://via.placeholder.com/600x400.png?text=Project+3+Screenshot)
-Description of your project and what it does. -->
 
 ## 📈 GitHub Stats
 
@@ -68,16 +53,16 @@ Description of your project and what it does. -->
   <img src="https://github-profile-trophy.vercel.app/?username=BarochiyaYash&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<img alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BarochiyaYash&amp;bg_color=1a1b27&amp;color=38bdae&amp;line=70a5fd&amp;point=bf91f3&amp;area=true&amp;hide_border=true">
-<!-- Footer --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=BarochiyaYash&style=flat-square&color=blue" alt="Profile views" /> <br/><br/> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h3>"Code is like humor. When you have to explain it, it's bad." – Cory House</h3> </div>
-⭐️ From BarochiyaYash
+<img alt="Yash's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BarochiyaYash&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BarochiyaYash&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbarochiya)
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.yashbarochiya.com/)
-
-<!-- Technologies & Tools Section -->
 
 ## 🛠️ Technologies & Tools
 
@@ -115,18 +100,18 @@ Description of your project and what it does. -->
 
 </div>
 
-
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://yashbarochiya.com/claude-fable-5-anthropic-ai/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/06/claude-fable-5-anthropic-ai-928x1024.webp" alt="Claude Fable 5: Anthropic’s New Powerhouse AI" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">Claude Fable 5: Anthropic’s New Powerhouse AI</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">Imagine compressing a multi-month database or structural migration across a massive enterprise codebase into less than 2…</sub> </a>
-<a href="https://yashbarochiya.com/google-io-2026/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/05/Google-Spark-1024x575.webp" alt="Google I/O 2026 Announcements: 5 AI Updates" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">Google I/O 2026 Announcements: 5 AI Updates</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">Introduction: Welcome to the Era of Agentic AI Did you know that over 70% of professionals feel they lose hours each wee…</sub> </a>
-<a href="https://yashbarochiya.com/ollama-my-self-hosted-ai-journey/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/05/apigetway-1024x518.webp" alt="My Experience Running Ollama on a VPS" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">My Experience Running Ollama on a VPS</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">When most developers talk about hosting their own AI, they usually focus on saving money or avoiding rate limits. But fo…</sub> </a>
-<a href="https://yashbarochiya.com/agentic-ai-shift/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/05/Google-Cloud-Next-26-1024x576.webp" alt="Agentic AI: The Era of Smart AI Agents" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">Agentic AI: The Era of Smart AI Agents</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">The AI Has Left the Room Remember when artificial intelligence felt like a brilliant assistant locked inside a single, i…</sub> </a>
-<a href="https://yashbarochiya.com/model-context-protocol-ai/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/04/Diagram-explaining-Model-Context-Protocol-architecture-and-AI-data-flow-1-1024x559.webp" alt="What is Model Context Protocol? The USB-C for AI Agents" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">What is Model Context Protocol? The USB-C for AI Agents</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">Imagine buying a brand-new, ultra-fast computer, only to realize every single accessory—your mouse, keyboard, and monito…</sub> </a>
-<a href="https://yashbarochiya.com/wordcamp-asia-2026-day-3/" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;"> <img src="https://yashbarochiya.com/wp-content/uploads/2026/04/Panel-on-Stage-1024x768.jpg" alt="My Adventure at WordCamp Asia 2026 Day 3" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" /> <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">My Adventure at WordCamp Asia 2026 Day 3</strong> <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">After an incredible Day 1 and Day 2, waking up for&amp;#160;WordCamp Asia 2026 Day 3&amp;#160;felt bittersweet. It’s always sad.…</sub> </a>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From BarochiyaYash(https://github.com/BarochiyaYash)
-![Visitor Count](https://hits.dwyl.com/BarochiyaYash/your-username.svg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <h3>"Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+</div>
+
+⭐️ From [BarochiyaYash](https://github.com/BarochiyaYash)
+
+![Visitor Count](https://hits.dwyl.com/BarochiyaYash/BarochiyaYash.svg)
