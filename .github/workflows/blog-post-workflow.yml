@@ -1,4 +1,5 @@
-name: Latest blog post workflow
+name: Latest Blog Post Workflow
+
 on:
   schedule:
     - cron: "30 0 1,8,15,22 * *" # 6:00 AM IST on 1st, 8th, 15th, 22nd
@@ -9,8 +10,9 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -18,30 +20,35 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://yashbarochiya.com/feed/"
+          feed_list: "https://yashbarochiya.com/feed/"
           max_post_count: 6
           disable_sort: false
           sort_order: desc
-          title_max_length: 80
-          description_max_length: 150
+          title_max_length: 60
+          description_max_length: 120
           custom_tags: "thumbnail/thumbnail/"
           item_exec: >
             const getMediaUrl = (value) => {
               if (!value) return '';
               if (Array.isArray(value)) return getMediaUrl(value[0]);
-              return value?.$?.url || value?.url || '';
+              if (typeof value === 'object') return value?.['$']?.url || value?.url || '';
+              return String(value);
             };
             const rawContent = item['content:encoded'] || item.content || '';
-            const imageFromContent = (rawContent.match(/<img[^>]+src\\s*=\\s*["']?([^"'\\s>]+)["']?/i) || [])[1] || '';
+            const imageFromContent = (rawContent.match(/<img[^>]+src\s*=\s*["']?([^"'\s>]+)["']?/i) || [])[1] || '';
             const mediaThumbnail = getMediaUrl(item['media:thumbnail']);
             const mediaContent = getMediaUrl(item['media:content']);
             const enclosureImage = item.enclosure?.url || '';
             const fallbackImage = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
             post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallbackImage;
-            post.description = (post.description || '').replace(/<[^>]*>/g, '').replace(/\\s+/g, ' ').trim();
+            const cleanDesc = (post.description || '').replace(/<[^>]*>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+            post.description = cleanDesc.length > 120 ? cleanDesc.substring(0, 120) + '…' : cleanDesc;
           template: >
-            <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5%; vertical-align:top; text-decoration:none;">
-            <img src="$thumbnail" alt="$title" width="100%" />
-            <strong>$title</strong><br />
-            <sub>$description</sub>
+            <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;">
+            <img src="$thumbnail" alt="$title" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" />
+            <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">$title</strong>
+            <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">$description</sub>
             </a>$newline
+          commit_message: "chore: update README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
