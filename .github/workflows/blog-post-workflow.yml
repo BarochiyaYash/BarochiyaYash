@@ -2,7 +2,7 @@ name: Latest Blog Post Workflow
 
 on:
   schedule:
-    - cron: "30 0 1,8,15,22 * *" # 6:00 AM IST on 1st, 8th, 15th, 22nd
+    - cron: "30 0 1,8,15,22 * *"
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,6 @@ jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,16 +38,13 @@ jobs:
             const mediaThumbnail = getMediaUrl(item['media:thumbnail']);
             const mediaContent = getMediaUrl(item['media:content']);
             const enclosureImage = item.enclosure?.url || '';
-            const fallbackImage = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
-            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallbackImage;
-            const cleanDesc = (post.description || '').replace(/<[^>]*>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-            post.description = cleanDesc.length > 120 ? cleanDesc.substring(0, 120) + '…' : cleanDesc;
-          template: >
-            <a href="$url" target="_blank" style="display:inline-block; width:48%; margin:0.5% 0.5% 16px; vertical-align:top; text-decoration:none; font-family:sans-serif;">
-            <img src="$thumbnail" alt="$title" width="100%" style="border-radius:8px; display:block; aspect-ratio:16/9; object-fit:cover;" />
-            <strong style="display:block; margin-top:6px; font-size:14px; color:#24292f;">$title</strong>
-            <sub style="display:block; margin-top:4px; color:#57606a; font-size:12px; line-height:1.4;">$description</sub>
-            </a>$newline
+            const fallback = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/02.png`;
+            post.thumbnail = mediaThumbnail || mediaContent || enclosureImage || imageFromContent || fallback;
+            const raw = (post.description || '').replace(/<[^>]*>/g, '').replace(/&[a-z#0-9]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+            post.description = raw.length > 120 ? raw.slice(0, 120) + '…' : raw;
+          template: "<a href=\"$url\" target=\"_blank\"><img src=\"$thumbnail\" alt=\"$title\" title=\"$title\" width=\"400\" /></a>&nbsp;<a href=\"$url\" target=\"_blank\"><b>$title</b><br/><sub>$description</sub></a>$newline$newline"
+          output_dir: "."
+          filename: "README.md"
           commit_message: "chore: update README with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
